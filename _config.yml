@@ -22,11 +22,11 @@ repository               : "cspartalis/cspatalis.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "kadinsky.png"
-  name             : "Christoforos"
+  avatar           : "kadinsky.jpeg"
+  name             : "Christoforos Sparatlis"
   pronouns         : # example: "she/her"  
-  bio              : "Currently, I am working as a Research Assistant at Visual Computing Lab, Information Technologies Institute, CERTH, under the supervision of Theodoros Semertzidis and Petros Daras. Also, I am pursuing a PhD research on Machine Unlearning at UvA-CERTH, under the supervision of Efstratios Gavves."
-  location         : "Thessaloniki"
+  bio              : "Electrical and Computer Engineer, Research Assistant, PhD Candidate. AI enthusiast dedicated to making AI models forget private or harmful information on demand. Commited to a future where AI and technology serve people, not used against them."
+  location         : "Thessaloniki, Greece"
   employer         : "Centre for Research and Technology Hellas (CERTH)"
   uri              : # URL
   email            : "cspartalis@iti.gr" 
@@ -130,26 +130,26 @@ yandex_site_verification :
 
 
 # Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+# twitter:
+#   username               : &twitter
+# facebook:
+#   username               :
+#   app_id                 :
+#   publisher              :
+# og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+# social:
+#   type                   : # Person or Organization (defaults to Person)
+#   name                   : # If the user or organization name differs from the site's name
+#   links: # An array of links to social media profiles
 
 
 # Analytics
-analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
-  google:
-    tracking_id          :
+# analytics:
+#   provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+#   google:
+#     tracking_id          :
 
 
 # Reading Files
