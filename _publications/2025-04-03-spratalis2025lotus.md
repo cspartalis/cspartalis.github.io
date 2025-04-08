@@ -7,10 +7,9 @@ excerpt: 'We present LoTUS, a novel Machine Unlearning (MU) method that eliminat
 '
 date: 2025-04-03
 venue: 'Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition'
-slidesurl: 'http://cspatalis.github.io/files/lotus_presentation.pdf'
-paperurl: 'http://cspartalis.github.io/files/spartalis2025lotus.pdf'
-bibtexurl: 'http://cspartalis.github.io/files/spartalis2025lotus.bib'
+slidesurl: 'https://cspatalis.github.io/files/lotus_presentation.pdf'
+paperurl: 'https://cspartalis.github.io/files/spartalis2025lotus.pdf'
+bibtexurl: 'https://cspartalis.github.io/files/spartalis2025lotus.bib'
 citation: 'Spartalis et al. (2025). &quot;LoTUS: Large-Scale Machine Unlearning with a Taste of Uncertainty.&quot; <i> In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition</i>. 2025.'
 ---
-
 Coming soon: video presentation of LoTUS.
