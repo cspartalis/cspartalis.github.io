@@ -13,4 +13,16 @@ bibtexurl: 'https://cspartalis.github.io/files/spartalis2025lotus.bib'
 citation: 'Spartalis et al. (2025). &quot;LoTUS: Large-Scale Machine Unlearning with a Taste of Uncertainty.&quot; <i> In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition</i>. 2025.'
 ---
 
-Coming soon: video presentation of LoTUS.
+We present a **novel Information-Theoretic framework for Machine Unlearning**—a principled method that enables AI models to forget specific training samples by **carefully increasing uncertainty** around them.
+
+Unlike prior approaches that didn’t explore the **information-theoretic nature of unlearning**, our method uses this framework to **discriminate between information that should be forgotten and information that should be retained**, preserving the model’s overall utility while effectively removing targeted data.
+
+### What’s New:
+- A **novel Information-Theoretic framework** for defining and guiding machine unlearning.
+- A method that **meticulously increases uncertainty** only where needed—efficient and utility-preserving.
+- A **new real-world-focused metric** for evaluating unlearning performance in practical deployment scenarios.
+
+### Explore More:
+- Poster: [CVPR 2025](https://cvpr.thecvf.com/virtual/2025/poster/33292)
+- Code & brief overview: [LoTUS](https://github.com/cspartalis/LoTUS)  
+- [Video presentation](https://youtu.be/zWt1d676gSE)
