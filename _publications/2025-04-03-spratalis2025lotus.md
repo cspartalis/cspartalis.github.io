@@ -7,10 +7,10 @@ excerpt: 'We present LoTUS, a novel Machine Unlearning (MU) method that eliminat
 '
 date: 2025-04-03
 venue: 'Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition'
-slidesurl: 'https://cspartalis.github.io/files/lotusPresentation.pdf'
-paperurl: 'https://cspartalis.github.io/files/spartalis2025lotus.pdf'
+slidesurl: 'https://cspartalis.github.io/files/cvpr2025.pdf'
+paperurl: 'https://cspartalis.github.io/files/Spartalis_LoTUS_Large-Scale_Machine_Unlearning_with_a_Taste_of_Uncertainty_CVPR_2025_paper.pdf'
 bibtexurl: 'https://cspartalis.github.io/files/spartalis2025lotus.bib'
-citation: 'Spartalis et al. (2025). &quot;LoTUS: Large-Scale Machine Unlearning with a Taste of Uncertainty.&quot; <i> In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition</i>. 2025.'
+citation: 'Spartalis et al. &quot;LoTUS: Large-Scale Machine Unlearning with a Taste of Uncertainty.&quot; <i> In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition</i>. 2025.'
 ---
 
 We present a **novel Information-Theoretic framework for Machine Unlearning**—a principled method that enables AI models to forget specific training samples by **carefully increasing uncertainty** around them.
@@ -22,7 +22,4 @@ Unlike prior approaches that didn’t explore the **information-theoretic nature
 - A method that **meticulously increases uncertainty** only where needed—efficient and utility-preserving.
 - A **new real-world-focused metric** for evaluating unlearning performance in practical deployment scenarios.
 
-### Explore More:
-- Poster: [CVPR 2025](https://cvpr.thecvf.com/virtual/2025/poster/33292)
-- Code & brief overview: [LoTUS](https://github.com/cspartalis/LoTUS)  
-- [Video presentation](https://youtu.be/zWt1d676gSE)
+### Explore More: [Poster](https://cspartalis.github.io/files/LoTUS_cvpr25_poster_final.pdf) | [Code & Overview](https://github.com/cspartalis/LoTUS)
