@@ -9,7 +9,7 @@ redirect_from:
 
 News
 ======
-* [July 2025]: Our paper: [Unleashing Uncertainty: Efficient Machine Unlearning for Generative AI](https://openreview.net/forum?id=rWc530VQE6) will be presented at the ICML 2025 workshop on Machine Unlearning for Generative AI.
+* [July 2025] Our paper [Unleashing Uncertainty: Efficient Machine Unlearning for Generative AI](https://openreview.net/forum?id=rWc530VQE6) will be presented at the ICML 2025 workshop on Machine Unlearning for Generative AI.
 * Reviewer for ICCV 2025, one of the top-tier conferences in Computer Vision 
 * [June 2025] Our paper, [LoTUS: Large-Scale Machine Unlearning with a Taste of Uncertainty](https://cspartalis.github.io/publication/2025-04-03-spartalis2025lotus) will be presented at the main conference of *Computer Vision and Pattern Recognition (CVPR)*, taking place June 10-15 2025. Looking forward to seeing you there!
 
