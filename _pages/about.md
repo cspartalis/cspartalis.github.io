@@ -7,6 +7,15 @@ redirect_from:
   - /about.html
 ---
 
+CV & Interests
+======
+[Download CV.](https://cspartalis.github.io/files/spartalis_christoforos_cv.pdf)
+
+I'm currently in the first year of my PhD at the University of Amsterdam, focusing on model correction—primarily through machine unlearning. My background includes experience in both research and industry, and I’ve had the opportunity to publish at CVPR and ICML 2025.
+
+My current work centers on uncertainty quantification and information-theoretic approaches to machine unlearning. I'm open to internships or collaborative opportunities where I can contribute to meaningful, high-impact research.
+
+
 News
 ======
 * [July 2025] Our paper [Unleashing Uncertainty: Efficient Machine Unlearning for Generative AI](https://openreview.net/forum?id=rWc530VQE6) will be presented at the *ICML 2025 workshop on Machine Unlearning for Generative AI*.
