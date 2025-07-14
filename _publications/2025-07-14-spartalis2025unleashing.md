@@ -1,7 +1,8 @@
-title: "Unleashing Uncertainty: Efficient Machine Unlearning for Generatice AI"
+---
+title: "Unleashing Uncertainty: Efficient Machine Unlearning for Generative AI"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-04-03-spartalis2025lotus
+permalink: /publication/2025-07-14-spartalis2025unleashing
 excerpt: 'We introduce SAFEMax, a novel method for Machine Unlearning in diffusion models. Grounded in information-theoretic principles, SAFEMax maximizes the entropy in generated images, causing the model to generate Gaussian noise when conditioned on impermissible classes by ultimately halting its denoising process. Also, our method controls the balance between forgetting and retention by selectively focusing on the early diffusion steps, where class-specific information is prominent. Our results demonstrate the effectiveness of SAFEMax and highlight its substantial efficiency gains over state-of-the-art methods.
 '
 date: 2025-07-14
