@@ -25,7 +25,7 @@ author:
   avatar           : "profile_pic_nashville.jpeg"
   name             : "Christoforos Sparatlis"
   pronouns         : # example: "she/her"  
-  bio              : "Electrical and Computer Engineer, PhD Candidate, Research Assistant. Commited to making AI models forget private or harmful information on demand.
+  bio              : "Electrical and Computer Engineer, PhD Candidate, Research Assistant. Commited to making AI models forget private or harmful information on demand."
   location         : "Thessaloniki, Greece"
   employer         : "University of Amsterdam & CERTH"
   uri              : # URL
@@ -80,7 +80,7 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title" ''
+    title: ''
     # title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
